@@ -6,9 +6,5 @@
 
 ## branch feature/signup   
 
-Version name
-
-
-Short description
 
 
